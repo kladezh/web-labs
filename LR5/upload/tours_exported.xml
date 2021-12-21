@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <item uuid="4d5ee732-4fcc-11ec-a471-00ff26797667">
+        <preview_img>perm_krugosvetka.jpg</preview_img>
+        <name>Пермская кругосветка(CHANGED)</name>
+        <country>Россия</country>
+        <description>Добро пожаловать в Пермский край! Мы будем рады показать вам все главные достопримечательности нашего края. Это будет приключение, которое останется в твоей памяти на долго!</description>
+        <cost>21000</cost>
+    </item>
+    <item uuid="4d5ee9b5-4fcc-11ec-a471-00ff26797667">
+        <preview_img>altai.jpg</preview_img>
+        <name>Знакомство с Алтаем</name>
+        <country>Россия</country>
+        <description>Приглашаем в увлекательное путешествие по одной из самых красивых дорог мира. Нам предстоят большие расстояния с живописными пейзажами, ведь мы проедем практически до Монголии и увидим настоящий Алтай, а также все достопримечательности Чуйского тракта и с</description>
+        <cost>38000</cost>
+    </item>
+    <item uuid="4d5eea7a-4fcc-11ec-a471-00ff26797667">
+        <preview_img>big_thach.jpg</preview_img>
+        <name>Пеший поход на Большой Тхач</name>
+        <country>Россия</country>
+        <description>Мы отправляемся в пеший поход  по природному парку Большой Тхач. Это удивительный природный объект, располагающийся на границе Мостовского района Краснодарского края и горной Адыгеи.</description>
+        <cost>22000</cost>
+    </item>
+    <item uuid="4d5eeb11-4fcc-11ec-a471-00ff26797667">
+        <preview_img>crime_krugosvetka.jpg</preview_img>
+        <name>Крымская кругосветка</name>
+        <country>Россия</country>
+        <description>Вас ожидает знакомство с интересными историческими достопримечательностями города-героя Севастополя, подъем к зубцам Ай-петри, посещение загадочной Долины Привидений. Восточный Крым откроет секреты Генуэзской крепости в Судаке, древней Феодосии.</description>
+        <cost>21900</cost>
+    </item>
+    <item uuid="dcfedfb7-5f50-11ec-8e38-00ff26797667">
+        <preview_img>no_img.png</preview_img>
+        <name>NEW 1</name>
+        <country>Россия</country>
+        <description>sdhdfjfjdj</description>
+        <cost>10001</cost>
+    </item>
+    <item uuid="dcfeedae-5f50-11ec-8e38-00ff26797667">
+        <preview_img>no_img.png</preview_img>
+        <name>NEW 2</name>
+        <country>Россия</country>
+        <description>sdfsg</description>
+        <cost>10002</cost>
+    </item>
+    <item uuid="4d5eeb8b-4fcc-11ec-a471-00ff26797667">
+        <preview_img>issik.jpg</preview_img>
+        <name>Озеро Иссык и музей Золотого человека</name>
+        <country>Казахстан</country>
+        <description>Иссыкское ущелье — одно из самых живописных и интересных мест Заилийского Алатау. Вы познакомитесь с археологическими памятниками сакской культуры, фантастической красотой озера Иссык. Вы также посетите Государственный историко-культурный музей-заповедник</description>
+        <cost>9000</cost>
+    </item>
+    <item uuid="4d5eeec9-4fcc-11ec-a471-00ff26797667">
+        <preview_img>luga_aci.jpg</preview_img>
+        <name>Альпийские луга Асы</name>
+        <country>Казахстан</country>
+        <description>Вы когда-нибудь бывали на летних горных пастбищах - жайлау? Это самые прекрасные места нашей страны, где растет сочная трава, где бегут горные ручьи, цветут альпийские луга, горный воздух сплетается с облаками, которые близко-близко к вам и Вы ощущаете се</description>
+        <cost>15000</cost>
+    </item>
+    <item uuid="4d5eef3b-4fcc-11ec-a471-00ff26797667">
+        <preview_img>alzhir.jpg</preview_img>
+        <name>АЛЖИР - разлученные временем</name>
+        <country>Казахстан</country>
+        <description>Музейно-мемориальный комплекс открывается монументом Арка скорби, символизирующим вход в священную землю, где происходит встреча двух миров - живых и мертвых, встреча прошлого и настоящего. В то же время Арка скорби олицетворяет женщину-мать, оплакивающую</description>
+        <cost>11500</cost>
+    </item>
+    <item uuid="4d5eefa2-4fcc-11ec-a471-00ff26797667">
+        <preview_img>petrogliphs_tamgali.jpg</preview_img>
+        <name>Петроглифы Тамгалы</name>
+        <country>Казахстан</country>
+        <description>Галерея наскальных рисунков урочища Тамгалы была открыта 19 сентября 1957 года Семиреченским отрядом Южно-Казахстанской археологической экспедиции Института истории и археологии Академии наук КазССР. Петроглифы обнаружили совершенно случайно, но значимост</description>
+        <cost>10000</cost>
+    </item>
+    <item uuid="4d5ef008-4fcc-11ec-a471-00ff26797667">
+        <preview_img>uk_hotel_kiris.jpg</preview_img>
+        <name>Отель Uk Hotel Kiris</name>
+        <country>Турция</country>
+        <description>Отель расположен в п.Кириш, в 7 км от центра г.Кемер. Аэропорт г.Анталия находится в 42 км от отеля. Рядом стоящие отели: Alva Donna World Palace.</description>
+        <cost>40200</cost>
+    </item>
+    <item uuid="4d5ef060-4fcc-11ec-a471-00ff26797667">
+        <preview_img>armella_hill_hotel.jpg</preview_img>
+        <name>Отель Armella Hill Hotel</name>
+        <country>Турция</country>
+        <description>Отель расположен в п.Чолаклы, в 7 км от центра г.Сиде. Аэропорт Анталии находится в 55 км от отеля.</description>
+        <cost>46500</cost>
+    </item>
+    <item uuid="4d5ef0b5-4fcc-11ec-a471-00ff26797667">
+        <preview_img>viva_beach_hotel.jpg</preview_img>
+        <name>Отель Viva Beach Hotel</name>
+        <country>Турция</country>
+        <description>Отель расположен в г. Махмутлар. Расстояние до аэропорта Газипаша - 27 км.</description>
+        <cost>43100</cost>
+    </item>
+    <item uuid="4d5ef121-4fcc-11ec-a471-00ff26797667">
+        <preview_img>kylo_garden_hotel.jpg</preview_img>
+        <name>Отель Kylo Garden Hotel By Julitat</name>
+        <country>Турция</country>
+        <description>Отель расположен в п.Чамьюва, в 10 км от центра г.Кемер. Аэропорт г.Анталия находится в 50 км от отеля. Рядом стоящие отели: L Oceanica Beach Resort.</description>
+        <cost>44600</cost>
+    </item>
+    <item uuid="4d5ef19d-4fcc-11ec-a471-00ff26797667">
+        <preview_img>azure_phuket.jpg</preview_img>
+        <name>Azure Phuket</name>
+        <country>Тайланд</country>
+        <description>Отель Azure Phuket (ex. Sun Shine Patong Hotel, Sunshine Resort Phuket) расположен недалеко (850 м) от пляжа Патонг, на острове Пхукет в Тайланде. До центра города - 14,7 км. Международный аэропорт острова Пхукет находится в 38 км от отеля.</description>
+        <cost>102100</cost>
+    </item>
+    <item uuid="4d5ef1fc-4fcc-11ec-a471-00ff26797667">
+        <preview_img>azure_hotel_bangla.jpg</preview_img>
+        <name>Azure Hotel Bangla</name>
+        <country>Тайланд</country>
+        <description>Остановив свой выбор на отеле Azure Hotel Bangla (ex. RCB Patong), вы сможете не только отдохнуть в отеле и городе Пхукет, но и заняться делами бизнеса. Отель предоставит вам все условия для того, чтобы ваше проживание было комфортным и удобным. </description>
+        <cost>103800</cost>
+    </item>
+    <item uuid="4d5ef25d-4fcc-11ec-a471-00ff26797667">
+        <preview_img>hawaii_patong.jpg</preview_img>
+        <name>Hawaii Patong</name>
+        <country>Тайланд</country>
+        <description>Azure Inn (ex. Bed Time Patong; Tuana Yk Patong Resort) находится на острове Пхукет, в городке Патонг. В 850 м. расположен песчаный пляж Patong Beach. До центра городка Патонг - 2.2 км. До Международного Аэропорта Пхукет (Phuket International Airport) - 3</description>
+        <cost>104000</cost>
+    </item>
+    <item uuid="4d5ef2bb-4fcc-11ec-a471-00ff26797667">
+        <preview_img>royal_crown_hotel.jpg</preview_img>
+        <name>Royal Crown Hotel</name>
+        <country>Тайланд</country>
+        <description>Отель Royal Crown (Роял Краун) находится в километре от моря и огромного пляжа Патонг-бич. Густая тропическая растительность на территории отеля, а также живописный вид со склона создают особую атмосферу спокойствия, которую дополняют современные номера о</description>
+        <cost>106500</cost>
+    </item>
+    <item uuid="4d5ef320-4fcc-11ec-a471-00ff26797667">
+        <preview_img>buchak.jpg</preview_img>
+        <name>Бучак - место силы</name>
+        <country>Украина</country>
+        <description>Бучак - место непростое, здесь нашли памятники эпохи мустье, времен скифов и ранних славян. Найдены остатки средневекового города, возможно, это затерянный летописный Пересичин. Что привлекало жителей на эти земли? Не только близость реки, защита склонов </description>
+        <cost>2025</cost>
+    </item>
+    <item uuid="4d5ef384-4fcc-11ec-a471-00ff26797667">
+        <preview_img>goverl.jpg</preview_img>
+        <name>Восхождение на Говерлу</name>
+        <country>Украина</country>
+        <description>Подъем на Говерлу - на самую высокую вершину Украины. Это 4 км живописного, местами коварного склона, наслаждение невероятными видами и полная грудь чистейшего горного воздуха.</description>
+        <cost>5800</cost>
+    </item>
+    <item uuid="4d5ef3dd-4fcc-11ec-a471-00ff26797667">
+        <preview_img>lvow_for_pain.jpg</preview_img>
+        <name>Львов для тех, кто соскучился</name>
+        <country>Украина</country>
+        <description>Ближе к вечеру отправимся на экскурсию по Львову. Обновим свои впечатления об этом волшебном городе! Нас ждет мистическая экскурсия "Подземелья Львова: от иезуитов до доминиканцев".</description>
+        <cost>7965</cost>
+    </item>
+    <item uuid="4d5ef44e-4fcc-11ec-a471-00ff26797667">
+        <preview_img>ukraine_parizh.jpg</preview_img>
+        <name>Выходные в украинском Париже</name>
+        <country>Украина</country>
+        <description>Главное в Черновцах - это потрясающей красоты площади! Именно им - главным достопримечательностям Буковинского Парижа будет посвящена экскурсия. Первой во время экскурсии будет Турецкая площадь, которая расскажет историю возникновения города. Также вас жд</description>
+        <cost>3500</cost>
+    </item>
+</root>
