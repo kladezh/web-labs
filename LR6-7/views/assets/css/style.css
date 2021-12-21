@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+.row{
+    --bs-gutter-x: 0;
+}
+
+body{
+    background-color: #f5f6f9;
+
+    font-family: 'Roboto Condensed', sans-serif,Helvetica,Arial,sans-serif;
+    color: #000;
+}
+
+.container{
+    max-width: 1024px; 
+    padding: 0;
+}
+
+main{
+    padding: 3rem .25rem 0 .25rem;
+}
+
+/* section [class*="header"]{
+    text-transform: uppercase;
+} */
+
+/* ------header.php-------- */
+
+header{
+    height: auto;
+
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+
+/* Navbar */
+
+.navbar-brand{
+    width: 16rem;
+    height: 3.0125rem;
+
+    margin-right: 0.5rem;
+
+    background-color: #fd9c28;
+}
+.navbar-brand img{
+    width: 10.125rem;
+    height: 1.625rem;
+}
+
+.navbar a{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.1;
+    text-decoration: none;
+
+    color: #000;
+}
+.navbar a:hover{
+    color: unset;
+}
+
+.nav-link span{
+    border-bottom: 1px solid rgba(0,0,0,.2);
+}
+.nav-link span:hover{
+    border-bottom-color: #000;
+}
+
+.navbar-tel h4{
+    font-size: 1.3125rem;
+    font-weight: 400;
+    line-height: 1.14;
+}
+
+.navbar-tel span{
+    font-size: 0.75rem;
+    line-height: 1.16;
+
+    color: #666;
+}
+
+.navbar-bordered{
+    border-right: 1px solid #d0d0d0;
+    border-left: 1px solid #d0d0d0;
+}
+.navbar-bordered a:hover{
+    color: #fd9c28;
+}
+.navbar-bordered span{
+    border-bottom: unset;
+}
+.navbar-bordered span:hover{
+    border-bottom-color: unset;
+}
+
+header .dropdown-menu{
+    max-width: 15.625rem;
+
+    box-shadow: 5px 5px 25px #ced1d0;
+    border-radius: 16px;
+
+    overflow-y: auto;
+}
+
+header .dropdown-item{
+    height: 2.5rem;
+}
+header .dropdown-item:hover{
+    color: #fd9c28;
+    background-color: inherit;
+}
+
+.navbar .navbar-toggle-icon{
+    width: 28px;
+    height: 24px;
+}
+
+.navbar .navbar-toggle-icon svg{
+    width: 24px;
+    height: 24px;
+    fill: #fff;
+} 
+
+.offcanvas-start{
+    border: unset;
+}
+
+/* ------ footer.php -------- */
+
+.footer {
+    position: absolute;
+    width: 100%;
+
+    background: #3e3e3e;
+}
+
+.footer a{
+    line-height: 1.875rem;
+    text-decoration: none;
+    background: inherit;
+    color: #979797;
+}
+.footer a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.footer a span{
+    font-size: 0.875rem;
+    line-height: 1.14;
+}
+
+.footer-about-privacy{
+    font-size: 0.875rem;
+    line-height: .78;
+    color: #777;
+}
+
+.footer-social a{
+    width: 30px;
+    height: 30px;
+    background-repeat: 50%;
+}
+
+.footer-social svg{
+    width: 28px;
+    height: 28px;
+    fill: #fff;
+}
+
+.footer .footer-social-vk{
+    background-color: #53769b;
+}
+.footer .footer-social-facebook{
+    background-color: #4261a9;
+}
+.footer .footer-social-twitter{
+    background-color: #6ab6f0;
+}
+.footer .footer-social-ok{
+    background-color: #ed812b;
+}
+.footer .footer-social-inst{
+    background-color: #ac2691;
+}
+
+.footer-partners{
+    min-width: 150px;   
+}
+
+.footer-partners span{
+    font-size: 0.875rem;
+    line-height: 1.14;
+    color: #d3d3d3;
+}
+
+.footer-partners img{
+    object-fit: contain;
+}
+
+/* scrollup */
+
+.scrollup{
+    height: 2.375rem;
+    background-color: #fff;
+}
+
+.scrollup a{
+    height: 2.375rem;
+    line-height: 1;
+    text-decoration: none;
+}
+.scrollup a:hover{
+    background-color: #d6d6d6;
+}
+
+.scrollup a span{
+    font-size: 1rem;
+    line-height: 1.05;
+    color: #000;
+    border-bottom: 1px dotted;
+}
+
+/* ****** index.php ****** */
+
+section.file-system {
+    margin: 200px 0;
+}
+
+/* Login toast*/
+
+article.login-toast {
+    margin-top: 4rem;
+}
+
+article.login-toast .login-allert{
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 0 15px #ced1d0;
+    background-color: #fff;
+}
+
+
+/* ****** tours.php ****** */
+.tours-warning {
+    margin: 300px 0;
+    padding: 20px;
+
+    background-color: #fff;
+}
+
+.tours-table  form .form-header{
+    font-size: 1.2rem;
+    text-transform: none;
+}
+
+
+/* ****** signup.php ****** */
+
+section.login .btn[type="submit"]{
+    border-radius: 12px;
+    border: none;
+    background-color: #fd9c28;
+
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    transition: opacity .1s linear;
+}
+section.login .btn[type="submit"]:hover{
+    opacity: .85;
+}
+
+section.login .form-errors {
+    color: #e92222;
+}
+
+
+/* ****** export.php ****** */
+
+section.file-system-export {
+    margin: 300px 0;
+    padding: 20px;
+
+    background-color: #fff;
+}
